@@ -191,10 +191,14 @@
             "value": "0.8"
         },
         "z_seam_type": {
-            "value": "'shortest'"
+            "value": "'back'"
         },
-
-
+        "z_seam_x": {
+            "value": "300"
+        },
+        "z_seam_y": {
+            "value": "0"
+        },
 
 
         "wall_thickness": {
